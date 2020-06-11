@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [首页](README.md)
+* [测试 GitHub 同步](ce-shi-github-tong-bu.md)
 
